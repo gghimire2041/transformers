@@ -30,3 +30,12 @@ Transformers have significantly advanced the capabilities of natural language pr
 ## Mathematics under the hood
 #### Word Embeddings: Example - I love data science
 
+Now, let's calculate the word embeddings in two dimension for simplicity. In reality, it is often 512 dimensions but could be any. With respect to I, the 1 or 0 are asigned as:
+
+I love data science
+1   0    0     0  
+
+Since, we're dealing with only two dimensions above numbers are multipled with weights to generate new pair of word emeddings. For example, 1 is multiplied with 1.87 and 0.09 and thus the word embedding for **I** is now **[1.87, 0.09]**. Word embeddings for **love**, **data**, and **science** are calcualted in similar way.
+
+
+

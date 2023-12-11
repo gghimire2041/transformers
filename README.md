@@ -1,7 +1,7 @@
 ## Transfomers as seen from space
 Transformers refer to a class of deep learning models that are designed to handle sequential data efficiently, particularly in natural language processing (NLP) tasks. They have revolutionized the field of NLP due to their exceptional performance in various language-related tasks.
 
-<Key Characteristics:>
+*Key Characteristics:*
 
 **Attention Mechanism:** Transformers rely on a mechanism called "attention" to process sequential data. Attention allows the model to focus on specific parts of the input sequence when making predictions, capturing long-range dependencies more effectively than previous models.
 
@@ -9,7 +9,7 @@ Transformers refer to a class of deep learning models that are designed to handl
 
 **Parallelization:** Transformers can process input sequences in parallel, making them computationally efficient compared to sequential models like recurrent neural networks (RNNs).
 
-<Components of a Transformer Model:>
+*Components of a Transformer Model:*
 
 **Encoder-Decoder Architecture:** Transformers often consist of an encoder-decoder architecture. The encoder processes the input sequence, while the decoder generates the output sequence.
 
@@ -17,7 +17,7 @@ Transformers refer to a class of deep learning models that are designed to handl
 
 **Positional Encoding:** Since transformers do not inherently handle sequence order, positional encodings are added to the input embeddings to convey the positional information of tokens within the sequence.
 
-<Applications:>
+*Applications:*
 
 **Language Translation:** Transformers, such as the Transformer model introduced by Vaswani et al. (2017), have been highly successful in machine translation tasks.
 

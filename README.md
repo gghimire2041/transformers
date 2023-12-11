@@ -27,3 +27,6 @@ Transformers refer to a class of deep learning models that are designed to handl
 
 Transformers have significantly advanced the capabilities of natural language processing models, enabling more accurate and context-aware understanding and generation of human language. Their versatility and effectiveness have made them a cornerstone in the field of NLP and beyond.
 
+## Mathematics under the hood
+#### Word Embeddings: Example - I love data science
+

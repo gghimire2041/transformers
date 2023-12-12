@@ -37,5 +37,19 @@ I love data science
 
 Since, we're dealing with only two dimensions above numbers are multipled with weights to generate new pair of word emeddings. For example, 1 is multiplied with 1.87 and 0.09 and thus the word embedding for **I** is now **[1.87, 0.09]**. Word embeddings for **love**, **data**, and **science** are calcualted in similar way.
 
+As of now we have:
+input_sequence = ['I', 'love', 'data', 'science', <eos>]
+And word embeddings in two dimension for each of these.
+
+Now, an alternating sine and cosine magnitude for each token and for each embedding is calculated. This value is added to each embedding to get a position encoded word embedding.
+Then transformer applies linear transformation to the position encoded embeddings to obtain query (Q), keys(K), and values(V) by multiplying with these weight matrices.
+
+Q = E.Wq 
+K = E.Wk
+V = E.Wv
+
+Where, E is position encoded embeddings, and W is weight matrices for querey, keys, and values.
+
+
 
 

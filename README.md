@@ -1,5 +1,5 @@
 
-![Transformers](https://www.google.com/search?client=firefox-b-1-d&sca_esv=590541752&sxsrf=AM9HkKkheuE8ghed8mtt-1EWL3PR5X952w:1702472677148&q=transformer+ai&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiS1KT5vIyDAxWmkiYFHeIQDMIQ0pQJegQIDBAB&biw=1128&bih=628&dpr=2#imgrc=_7u3z5YfFRHKeM)
+![Transformers](https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png)
 
 
 ## Transfomers as seen from space

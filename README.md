@@ -55,5 +55,8 @@ V = E.Wv
 Where, E is position encoded embeddings, and W is weight matrices for querey, keys, and values.
 
 
+## To be continued.....
+
+
 
 
